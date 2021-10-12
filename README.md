@@ -35,6 +35,13 @@
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
 </p>
 
+## 🦸 Find me around the web 🌎
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nijat-namazzade-494ab5174/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+</p>
 
 
 
