@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nijat</h1>
+<h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img align='right' width="200px" height="200px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
-<h3 align="center">I'm Single, Developer, and Self-Learner:  <br/> who tends to utilise both the logical and creative part of the brain.
+<h3>I'm Single, Developer, and Self-Learner:  <br/> who tends to utilise both the logical and creative part of the brain.
 </h3>
 <p>I'm a confident✨ and  <br/>
    I'm always trying to grow and learn something new. </p>
@@ -48,8 +48,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarminGale&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
-  <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarminGale&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+    <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nijatnamazzade&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
+  <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijatnamazzade&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
