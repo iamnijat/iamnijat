@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img align='right' width="400px" height="200px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
+<img align='right' width="400px" height="300px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
 <h3>I'm Single, Developer, and Self-Learner who tends to utilise both the logical and creative part of the brain.
 </h3>
 <p>I'm a confident✨ and I'm always trying to grow and learn something new. </p>
