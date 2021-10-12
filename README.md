@@ -9,12 +9,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love singing in the shower
 
-### Connect with me:
-
-[<img align="left" alt="nijatnamazzade | LinkedIn" width="22px" src="https://www.linkedin.com/in/nijat-namazzade-494ab5174/" />][linkedin]
-[<img align="left" alt="nijatnamazzade | Facebook" width="22px" src="https://www.facebook.com/nicat.namazzade" />][facebook]
-[<img align="left" alt="nijatnamazzade | Instagram" width="22px" src="https://www.instagram.com/_nijatnamazzade_/" />][instagram]
-
 <br />
 
 ### Languages and Tools:
