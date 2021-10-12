@@ -1,30 +1,71 @@
-### Hi there, I'm Nijat 👋
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nijat</h1>
+<img align='right' width="200px" height="200px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
+<h3 align="center">I'm Single, Developer, and Self-Learner:  <br/> who tends to utilise both the logical and creative part of the brain.
+</h3>
+<p>I'm a confident✨ and  <br/>
+   I'm always trying to grow and learn something new. </p>
 
 
-## I'm Single, Developer, and Self-Learner!!
+## :Man:Talking about Personal Stuff:
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Flutter Clean Architecture & TDD Tutorial 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love singing in the shower
-<br />
+- 🌱 I’m currently learning **Flutter Clean Architecture & TDD Tutorial 🤣**
 
-### Languages and Tools:
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/firebase/firebase.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />][]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+<!-- - :man_technologist: All of my projects are available at **[My Portfolio]**
+ -->
+- 💬 Ask me about anything. I'm happy to help
 
-<br />
-<br />
+- 📫 How to reach me **nijat.namazzade@gmail.com**
 
+- ⚡ Fun fact: **I cannot think about anything when I'm engaged in coding with flutter:, I love singing in the shower 🚿, studying languages :crystal_ball: or simply reading programming :books: .**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://flutter.dev/?gclid=Cj0KCQjw5JSLBhCxARIsAHgO2SctpIuwEOGLaFhUW-z2DK7z9xGYTopNN8l089YctTTATn2IbivDw5gaApkiEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://material-ui.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>   
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
+</p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/NarminGale/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narmin Gale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarminGale&theme=ayu-mirage&hide_border=true"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarminGale&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
+  <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarminGale&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/nijatnamazzade/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nijatnamazzade&theme=rogue&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<!-- ## Find me around the web :earth_americas: : 
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nijat-namazzade-494ab5174/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+</p>
+ -->
