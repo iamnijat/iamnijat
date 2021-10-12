@@ -40,6 +40,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nijat-namazzade-494ab5174/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/nicat.namazzade"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://github.com/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
