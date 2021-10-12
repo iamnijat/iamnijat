@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img width="200px" height="200px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/></h1>
+<h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br/><img width="200px" height="200px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/></h1>
 
 <h3>I'm Single, Developer, and Self-Learner who tends to utilise both the logical and creative part of the brain.
 </h3>
