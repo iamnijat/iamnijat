@@ -17,7 +17,7 @@
  -->
 - 💬 Ask me about anything. I'm elated to help
 
-- 📫 How to reach me **nijat.namazzade@gmail.com**
+- 📫 How to reach me **nicat.namazzade@gmail.com**
 
 - ⚡ Fun fact: **I cannot think about anything when I'm engaged in coding with flutter 💻, I love singing in the shower 🚿, studying languages :crystal_ball: or simply reading programming :books: .**
 
