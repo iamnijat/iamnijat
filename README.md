@@ -2,12 +2,9 @@
 <h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img align='right' width="400px" height="300px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
 
-<h2>I'm Single 🤞, Flutter Developer 💻, and Self-Learner 🌜 who tends to utilise both the logical and creative part of the brain.
-</h2>
-
-
 
 ## 👨 Talking about Personal Stuff:
+- ✅ I'm Single 🤞, Flutter Developer 💻, and Self-Learner 🌜 who tends to utilise both the logical and creative part of the brain.
 
 - 🌱 I’m currently learning **Flutter Clean Architecture & TDD Tutorial 🤣**
 
