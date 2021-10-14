@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img style="padding: 20;" align='right' width="400px" height="300px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
-<h1></h1>
+<img align='right' width="400px" height="300px" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" height="175px"/>
+
 
 ## 👨 Talking about Personal Stuff:
 - ✅ I'm Single 🤞, Flutter Developer 💻, and Self-Learner 🌜 who tends to utilise both the logical and creative part of the brain.
