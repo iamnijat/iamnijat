@@ -53,6 +53,7 @@
     </a>
 </p>
 -->
+<br/>
     <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nijatnamazzade&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
   <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijatnamazzade&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
   <br/>
