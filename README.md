@@ -6,7 +6,7 @@
 ## 👨 Talking about Personal Stuff:
 - ✅ I'm Single 🤞, Flutter Developer 💻, and Self-Learner 🌜 who tends to utilise both the logical and creative part of the brain.
 
-- 🌱 I’m currently learning **Flutter Clean Architecture & TDD Tutorial 🤣**
+- 🌱 I’m currently learning **Flutter Clean Architecture & TDD Tutorial 📌**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
