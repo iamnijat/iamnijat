@@ -39,7 +39,7 @@
 
 <a href = "https://www.linkedin.com/in/nijat-namazzade-494ab5174/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/nicat.namazzade"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://github.com/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://github.com/iamnijat"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
 
@@ -48,14 +48,14 @@
 <!--
 <br/>
 <p>
-    <a href="https://github.com/nijatnamazzade/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nijatnamazzade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nijatnamazzade&theme=ayu-mirage&hide_border=true"/>
+    <a href="https://github.com/iamnijat/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nijatnamazzade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnijat&theme=ayu-mirage&hide_border=true"/>
     </a>
 </p>
 -->
 <br/>
-    <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nijatnamazzade&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
-  <a href="https://github.com/nijatnamazzade/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijatnamazzade&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+    <a href="https://github.com/iamnijat/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamnijat&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
+  <a href="https://github.com/iamnijat/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnijat&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
   <br/>
  
 
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/nijatnamazzade/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nijatnamazzade&theme=rogue&hide_border=true" /></a>
+<a href="https://github.com/iamnijat/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nijatnamazzade&theme=rogue&hide_border=true" /></a>
 
 <br/>
 <br/>
