@@ -33,13 +33,6 @@
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
 </p>
 
-## ✍️ Articles:
-
-<p align="left"> 
-    <a href="https://medium.com/@nijatnamazzade/custom-route-transition-in-the-latest-version-of-flutter-200433ee47f5">Custom route transition in the latest version of Flutter</a></p>
-             
-   <p align="left"> 
-    <a href="https://medium.com/@nijatnamazzade/version-incompatibility-in-flutter-http-operations-4a02383932a1">Version incompatibility in Flutter http operations</a></p>
 
 ## 🦸 Find me around the web 🌎
 
@@ -50,7 +43,13 @@
 <a href = "https://github.com/iamnijat"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
+## ✍️ Articles:
 
+<p align="left"> 
+    <a href="https://medium.com/@nijatnamazzade/custom-route-transition-in-the-latest-version-of-flutter-200433ee47f5">Custom route transition in the latest version of Flutter</a></p>
+             
+   <p align="left"> 
+    <a href="https://medium.com/@nijatnamazzade/version-incompatibility-in-flutter-http-operations-4a02383932a1">Version incompatibility in Flutter http operations</a></p>
 
 ## 📊 My Github Stats
 <!--
