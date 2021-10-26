@@ -3,7 +3,7 @@
 <img align='right' width="400px" height="300px" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height="175px"/>
 
 
-## 👨 Talking about Personal Stuff:
+## 👨 Personal Stuff:
 - ✅ I'm Single 🤞, Flutter Developer 💻, and Self-Learner 🌜 who tends to utilise both the logical and creative part of the brain.
 
 - 🌱 I’m currently learning **Flutter Clean Architecture & TDD Tutorial 📌**
