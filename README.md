@@ -67,11 +67,11 @@
   <br/>
  -->
 
-
+ <!--
 <br/>
 
 <a href="https://github.com/iamnijat/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnijat&theme=rogue&hide_border=true" /></a>
 
 <br/>
 <br/>
-
+-->
