@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="60px"></h1>
+<h1 align="center">Hi, I'm Nijat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45px"></h1>
 <img align='right' width="400px" height="300px" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height="175px"/>
 
 
