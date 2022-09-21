@@ -53,6 +53,11 @@
              
    <p align="left"> 
     <a href="https://medium.com/@nijatnamazzade/version-incompatibility-in-flutter-http-operations-4a02383932a1">Version incompatibility in Flutter http operations</a></p>
+    
+---
+
+### Now Playing on Spotify 🎧
+[![Spotify](https://readme-spotify-two.vercel.app/api/spotify)]
 
 ## 📊 My Github Stats
 <!--
