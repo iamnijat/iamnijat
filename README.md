@@ -44,6 +44,7 @@
 <a href = "https://www.linkedin.com/in/nijat-namazzade-494ab5174/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/nicat.namazzade"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://github.com/iamnijat"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+ <a href = "https://stackoverflow.com/users/16788073/nijat-namazzade"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 <a href = "https://www.behance.net/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
 <a href = "https://dribbble.com/nijatnamazzade"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a>
 </p>
