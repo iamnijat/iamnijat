@@ -70,8 +70,7 @@
 <br/>
     <a href="https://github.com/iamnijat/github-readme-stats"><img alt="nijatnamazzade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamnijat&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true" /></a>
     
-  <br/>
-<a href="https://stardev.io/developers/iamnijat"><img alt="Check out iamnijat's profile on stardev.io" src="https://stardev.io/developers/iamnijat/badge/languages/global.svg" /></a>
+ 
 
  <!--
   <a href="https://github.com/iamnijat/github-readme-stats"><img alt="nijatnamazzade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnijat&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
@@ -80,7 +79,8 @@
 
  <!--
 <br/>
-
+ <br/>
+<a href="https://stardev.io/developers/iamnijat"><img alt="Check out iamnijat's profile on stardev.io" src="https://stardev.io/developers/iamnijat/badge/languages/global.svg" /></a>
 <a href="https://github.com/iamnijat/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnijat&theme=rogue&hide_border=true" /></a>
 
 
