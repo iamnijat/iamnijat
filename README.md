@@ -80,5 +80,6 @@
 <a href="https://github.com/iamnijat/github-readme-activity-graph"><img alt="nijatnamazzade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnijat&theme=rogue&hide_border=true" /></a>
 
 <br/>
+<a href="https://stardev.io/developers/iamnijat"><img alt="Check out iamnijat's profile on stardev.io" src="https://stardev.io/developers/iamnijat/badge/languages/global.svg" /></a>
 <br/>
 -->
