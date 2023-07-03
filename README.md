@@ -22,8 +22,7 @@
     <a href="https://flutter.dev/?gclid=Cj0KCQjw5JSLBhCxARIsAHgO2SctpIuwEOGLaFhUW-z2DK7z9xGYTopNN8l089YctTTATn2IbivDw5gaApkiEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
- <a href="https://www.swift.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://www.swift.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
